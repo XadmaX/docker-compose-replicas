@@ -1,0 +1,14 @@
+{
+  "name": "scaling-in-docker",
+  "version": "1.0.0",
+  "description": "A simple Express server that returns the OS hostname.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Maksym Khalin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
